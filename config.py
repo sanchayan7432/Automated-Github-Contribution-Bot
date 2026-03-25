@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Target repository path
-REPO_PATH = os.getenv("REPO_PATH", "D:\\NATURE-YouTube-video-Downloader")
+REPO_PATH = os.getenv("REPO_PATH", "CLONED REPOSITORY PATH")
 
 # Branch name
 BRANCH = "main"
